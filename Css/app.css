@@ -1,0 +1,19 @@
+body {
+
+	text-align: center;
+	padding: 25px;
+	font-family: "Courier New", Courier, monospace;
+
+}
+
+hr  {
+
+	margin: 50px;
+
+}
+
+
+canvas  {
+
+	max-height: 500;
+}
